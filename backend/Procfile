@@ -1,0 +1,1 @@
+web: gunicorn wandermate_config.wsgi:application
